@@ -136,6 +136,37 @@ Few-shot 练习 ✅
 
 **五个模块全部完成 ✅**
 
+---
+
+## 2026-04-19 更新
+
+### 新增模块
+
+**06 常用 AI 工作流（待学）**
+- Deep Research（宽度优先研究）
+- Plan & Execute（先规划后执行）
+- Skeleton First（骨架先行）
+- Reflection（自我反思）
+- STORM（斯坦福多视角研究工作流）
+
+**07 AI 辅助编程专题（待学）**
+- Spec-driven Development
+- TDD with AI
+- 大型代码库导航
+- Code Review 工作流
+- 安全重构工作流
+- Debugging with AI
+
+### 补充内容
+
+- 04 补充：权限与安全设置（四种权限模式、权限规则配置）
+- 05 补充：多 Agent 互相验证（Orchestrator 传递机制、循环上限设计）
+- 减少幻觉三个方向：Context 工程 + Chain-of-Thought + 验证环节
+
+### 下次从这里开始
+
+06 常用 AI 工作流，从 Deep Research 开始学习和练习。
+
 ## 今天没完成的内容
 
 - 上下文工程（03-context-engineering）模块还没开始
